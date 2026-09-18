@@ -15,4 +15,4 @@ Detailed documentation of my project architectures and field experience is avail
 **📥 [Download Portfolio (PDF)](https://drive.google.com/file/d/1GaJ-15y90sedPrcEVj3evQH-AUWRgPEZ/view?usp=drive_link)**
 
 ---
-[LinkedIn Profile](https://www.linkedin.com/in/bawahyu/) | Based in Kediri, Indonesia
+[LinkedIn Profile](https://www.linkedin.com/in/bawahyu/) | Based in Bandung, Indonesia
